@@ -5,7 +5,7 @@ https://github.com/slush0/stratum-mining/blob/master/lib/merkletree.py
 https://github.com/zone117x/node-stratum-pool/blob/master/lib/merkleTree.js
 
  */
-package merkle
+package merkletree
 
 import (
 	"crypto/sha256"
